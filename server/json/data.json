@@ -1,0 +1,70 @@
+[
+    
+        {
+          "id": 1,
+          "name": "The Snow Adventure",
+          "duration": 869698,
+          "maxGroupSize": 68686,
+          "difficulty": "difficult",
+          "ratingAverage": 3,
+          "ratingQuantity": 13,
+          "price": 997,
+          "summary": "Exciting adventure in the snow with snowboarding and skiing",
+          "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enimad minim veniam, quis nostrud exercitation ullanco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+          "imageCover": "tour-3-cover.jpg",
+          "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+          "startDate": ["2022-01-05T10:00:00Z", "2022-02-12T10:00:00Z", "2023-01-06T10:00:00Z"]
+        },
+        {
+            "id": 2,
+            "name": "Giza",
+            "duration": 9698,
+            "maxGroupSize": 686,
+            "difficulty": "difficult",
+            "ratingAverage": 4,
+            "ratingQuantity": 15,
+            "price": 497,
+            "summary": "Exciting adventure in the snow with snowboarding and skiing",
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna afkksfjslvmsdvkbrliqua, ut enimad minim veniam, quis nostrud exercitation ullanco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+            "imageCover": "tour-3-cover.jpg",
+            "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+            "startDate": ["2022-07-05T10:00:00Z", "2022-01-12T10:00:00Z", "2023-07-06T10:00:00Z"]
+          },
+          {
+            "id": 3,
+            "name": "Alex",
+            "duration": 98,
+            "maxGroupSize": 86,
+            "difficulty": "difficult",
+            "ratingAverage": 5,
+            "ratingQuantity": 19,
+            "price": 197,
+            "summary": "Exciting adventure in the snow with snowboarding and skiing",
+            "description": "mazen Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enimad minim veniam, quis nostrud exercitation ullanco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+            "imageCover": "tour-3-cover.jpg",
+            "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+            "startDate": ["2022-05-05T10:00:00Z", "2022-09-12T10:00:00Z", "2023-05-06T10:00:00Z"]
+          },
+          {
+            "id": 4,
+            "name": "Cairo",
+            "duration": 999,
+            "maxGroupSize": 486,
+            "difficulty": "difficult",
+            "ratingAverage": 5,
+            "ratingQuantity": 20,
+            "price": 30,
+            "summary": "Exciting adventure in the snow with snowboarding and skiing",
+            "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enimad minim veniam, quis nostrud exercitation ullanco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+            "imageCover": "tour-3-cover.jpg",
+            "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+            "startDate": ["2022-01-05T10:00:00Z", "2022-02-12T10:00:00Z", "2023-01-06T10:00:00Z"]
+          }
+      
+      
+
+      
+      
+      
+      
+]
