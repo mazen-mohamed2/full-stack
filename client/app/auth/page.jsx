@@ -19,7 +19,7 @@ const Signin = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post("http://localhost:3000/api/v1/users/signin", formData,  {withCredentials: true});
+      const res = await axios.post("http://localhost:3001/api/v1/users/signin", formData,  {withCredentials: true});
       const { token } = res.data;
       // Store the token in local storage
       localStorage.setItem("token", token);

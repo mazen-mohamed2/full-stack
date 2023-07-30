@@ -18,7 +18,7 @@ if (process.env.NODE_ENV === "development") {
 // app.use(bodyParser.urlencoded({ extended: true }));
 // console.log("dd");
 const corsOptions = {
-  origin: 'http://localhost:3001', // Replace with the URL of the frontend in the different country
+  origin: 'http://localhost:3000', // Replace with the URL of the frontend in the different country
   credentials: true, // Enable credentials (cookies) for CORS
 };
 app.use(express.json());
